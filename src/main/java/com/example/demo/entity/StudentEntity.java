@@ -19,7 +19,7 @@ public class StudentEntity {
         this.id=id;
         this.name=name;
         this.email=email;
-        this.cgpa=cgpa;     
+        this.cgpa=cgpa;           
     }
     public StudentEntity(){
 
